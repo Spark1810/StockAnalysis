@@ -59,7 +59,7 @@ pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
 Pillow==9.1.0
-plotly @ file:///Users/nicolas/opt/miniconda3/envs/env/conda-bld/plotly_1649173020953/work/packages/python/plotly/dist/plotly-5.7.0.tar.gz
+plotly
 prometheus-client==0.14.1
 prompt-toolkit==3.0.29
 protobuf==3.20.0
