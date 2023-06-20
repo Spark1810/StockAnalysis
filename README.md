@@ -13,4 +13,3 @@
   - Profitability analysis (roa, roe, roic, gross profit margin, net income margin...)
   - Financial health analysis (debt to equity, interest coverage, quick ratio, current ratio...)
   - Valuation analysis (p/e, p/s, p/b, p/fcf, peg) + Discounted Cash Flow Model
-
