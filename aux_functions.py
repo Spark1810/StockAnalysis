@@ -19,7 +19,6 @@ def calculateGrowthMetrics(df, columns):
         df[column +" cagr"] = (df[column].iloc[-1] / df[column].iloc[0]) ** (1/df.shape[0]) - 1
     return df.T
 
-
 def clean_string_to_numeric(list_of_strings):
     # Takes a list of strings and returns a cleaned list
     # safe to convert to numeric
