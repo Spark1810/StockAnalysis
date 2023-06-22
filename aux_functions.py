@@ -10,8 +10,6 @@ trivial_fix_list = list({"Other Liabilities", "Preferred Stock", "Common Stock",
 
 core_columns = ["Revenue", "Gross Profit", "Operating Income","Income Tax Expense (Gain)", "Net Income", "Total Assets", "Total Liabilities", "Total Stockholders Equity"]
 
-
-
 def calculateGrowthMetrics(df, columns):
     for column in columns:
         df[column+" growth yy"] = df[column] / df[column].shift(1) - 1
