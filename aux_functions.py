@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd 
+import pandas as pd  
 
 # Lista de los campos a los que se le ha aplicado el fix trivial
 trivial_fix_list = list({"Other Liabilities", "Preferred Stock", "Common Stock", "Tax Assets", "Tax Payable", "Capital Lease Obligations", "Common Stock Repurchased", "Common Stock Issued",
